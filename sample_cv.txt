@@ -1,0 +1,59 @@
+John Doe
+Software Engineer
+
+Contact Information:
+Email: john.doe@email.com
+Phone: (555) 123-4567
+Location: San Francisco, CA
+
+Professional Summary:
+Experienced software engineer with 5+ years developing web applications using modern technologies. 
+Passionate about building scalable systems and leading development teams.
+
+Work Experience:
+
+Senior Software Engineer | Tech Corp | 2022 - Present
+- Led development of microservices architecture using Python and Docker
+- Managed team of 4 junior developers
+- Implemented CI/CD pipelines reducing deployment time by 50%
+- Technologies: Python, FastAPI, React, PostgreSQL, AWS
+
+Software Engineer | StartupXYZ | 2020 - 2022
+- Developed full-stack web applications using JavaScript and Node.js
+- Built RESTful APIs serving 100k+ daily requests
+- Collaborated with product team on feature planning
+- Technologies: Node.js, Express, MongoDB, React
+
+Junior Developer | WebDev Inc | 2019 - 2020
+- Maintained legacy PHP applications
+- Fixed bugs and implemented new features
+- Learned modern development practices
+- Technologies: PHP, MySQL, HTML, CSS, JavaScript
+
+Education:
+Bachelor of Science in Computer Science | University of California | 2015 - 2019
+- Graduated Magna Cum Laude
+- Relevant coursework: Data Structures, Algorithms, Database Systems
+
+Skills:
+Programming Languages: Python, JavaScript, TypeScript, Java, PHP
+Frameworks: FastAPI, React, Node.js, Express, Django
+Databases: PostgreSQL, MongoDB, MySQL
+Cloud: AWS, Docker, Kubernetes
+Tools: Git, Jenkins, Jira
+
+Projects:
+E-commerce Platform (2023)
+- Built scalable e-commerce platform handling 10k+ concurrent users
+- Implemented payment processing and inventory management
+- Technologies: Python, FastAPI, React, PostgreSQL
+
+Task Management App (2022)
+- Developed real-time collaboration features
+- Implemented WebSocket connections for live updates
+- Technologies: Node.js, Socket.io, React
+
+Achievements:
+- Employee of the Month (Tech Corp, 2023)
+- Hackathon Winner (StartupXYZ Internal, 2021)
+- Open Source Contributor (5+ projects)
