@@ -44,7 +44,16 @@ A Model Context Protocol (MCP) server for CV/resume chat and email notifications
     pip install email-validator
 
 	```
-5. Create a sendgrid account and 
+5. Using SendGrid
+
+    1. Sign up at https://sendgrid.com and get your API key.
+    2. Go to "Settings" → "Sender Authentication".
+    3. Click "Create Sender" under "Single Sender Verification".
+    4. Enter your name and your email address (e.g., abishaniacademic@gmail.com).
+    5. SendGrid will send a verification email to that address.
+    6. Open your email inbox and click the verification link in the email from SendGrid.
+    7. Once verified, use this email as the FROM_EMAIL in .env file.
+    
 
 6. Run the backend server:
 	```
