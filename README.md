@@ -41,13 +41,16 @@ A Model Context Protocol (MCP) server for CV/resume chat and email notifications
 	```
     pip install PyPDF2
 	pip install fastapi uvicorn pydantic PyPDF2 pdfplumber python-docx spacy nltk sendgrid
+    pip install email-validator
 
 	```
-5. Run the backend server:
+5. Create a sendgrid account and 
+
+6. Run the backend server:
 	```
 	python main.py
 	```
-6. Open the index.html file in the browser
+7. Open the index.html file in the browser
 
 ## API Endpoints
 - `GET /` - Server status
