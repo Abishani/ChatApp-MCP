@@ -36,10 +36,12 @@ A Model Context Protocol (MCP) server for CV/resume chat and email notifications
 	FROM_EMAIL=your_email@gmail.com
 	```
 3. Add `.env` to `.gitignore` to keep credentials private.
-4. Install dependencies:
+
+4. Install python packages:
 	```
-    pip install python-dotenv
-	python -m spacy download en_core_web_sm
+    pip install PyPDF2
+	pip install fastapi uvicorn pydantic PyPDF2 pdfplumber python-docx spacy nltk sendgrid
+
 	```
 5. Run the backend server:
 	```
