@@ -64,9 +64,7 @@ A Model Context Protocol (MCP) server for CV/resume chat and email notifications
 7. Run the frontend
 	```
 	python serve_frontend.py
-	``` 
-
-8. Open the index.html file in the browser
+	```
 
 ## API Endpoints
 - `GET /` - Server status
@@ -77,4 +75,3 @@ A Model Context Protocol (MCP) server for CV/resume chat and email notifications
 
 ## Security
 - All sensitive credentials are stored in `.env` and never pushed to GitHub.
-- Uses `python-dotenv` to load environment variables.
