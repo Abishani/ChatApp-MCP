@@ -54,12 +54,19 @@ A Model Context Protocol (MCP) server for CV/resume chat and email notifications
     6. Open your email inbox and click the verification link in the email from SendGrid.
     7. Once verified, use this email as the FROM_EMAIL in .env file.
     
+## Note Run the backend server and frontend in different terminals
 
 6. Run the backend server:
 	```
 	python main.py
 	```
-7. Open the index.html file in the browser
+
+7. Run the frontend
+	```
+	python serve_frontend.py
+	``` 
+
+8. Open the index.html file in the browser
 
 ## API Endpoints
 - `GET /` - Server status
